@@ -25,6 +25,15 @@ body {
   width: 500px;
   height: 600px;
 }
+.width-half{
+    width: 50%;
+    font-size: 20px;
+   margin: 5px 0px 0px 350px;
+}
+.write{
+    text-align: center;
+}
+
 #imag2 {
   width: 400px;
   margin-left: 150px;
