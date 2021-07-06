@@ -80,7 +80,7 @@ span {
   margin: 30px;
   border-radius: 20px;
   padding: 10px;
-  box-shadow: 10px 10px 150px red;
+  box-shadow: 10px 10px 10px red;
 }
 
 .many-div {
