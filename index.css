@@ -34,8 +34,8 @@ body {
 }
 
 #imag2 {
-  width: 300px;
-  height: 580px;
+  width: 400px;
+  height: 570px;
   margin-left: 150px;
 }
 span {
@@ -51,11 +51,12 @@ span {
 }
 .about {
   margin-left: 100px;
-  margin-bottom: 0px;
+  width: 100%;
 }
 #container2nd {
 
-
+  margin-top: 0px;
+  margin-bottom: 40px;
   background-image: url(project-pic/project\ second\ cover.png);
   background-repeat: no-repeat;
 }
