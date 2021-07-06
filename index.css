@@ -66,19 +66,21 @@ span {
 .write {
 }
 #card-img {
-  width: 365px;
+  width: 300px;
   padding: 10px;
 
 }
 
 .card {
+ 
   display: flex;
-  margin: 0px 0px 20px 0px;
+  margin: 0px 0px 10px 0px;
 }
 .card-round {
   border: 4px solid gray;
-  margin: 30px;
+  margin: 10px;
   border-radius: 20px;
+  width: 30%;
   padding: 10px;
   box-shadow: 10px 10px 10px red;
 }
